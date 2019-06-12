@@ -1,1 +1,3 @@
-# Project-3-Prototype
+# DiaBeatIt-Prototype
+
+An app that helps prevent diabetes.
